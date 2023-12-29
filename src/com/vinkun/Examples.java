@@ -8,7 +8,7 @@ public class Examples {
 
 	}
 	public void example() {
-		
+		System.out.println("Example");
 	}
 
 }
